@@ -1,3 +1,5 @@
+// import { sql } from "@vercel/postgres";
+
 const { db } = require('@vercel/postgres');
 const {
   invoices,
